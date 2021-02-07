@@ -27,3 +27,4 @@ void ft_intermediary(const char *format, t_printf *tab, va_list list)
 	if (tab->conv == 'X')
 		ft_mx_convert(format, tab, list);
 }
+Ceci est une request
